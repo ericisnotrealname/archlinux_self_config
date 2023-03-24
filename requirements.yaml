@@ -1,0 +1,12 @@
+xwindows:
+  - xorg-server
+  - xorg-apps
+  - xorg-xinit
+  - lightdm
+  - lightdm-gtk-greeter
+  - lightdm-gtk-greeter-settings
+  - rof
+terminal:
+  - alacritty
+fonts:
+  - noto-fonts-cjk
