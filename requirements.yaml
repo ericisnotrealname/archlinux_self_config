@@ -5,8 +5,11 @@ xwindows:
   - lightdm
   - lightdm-gtk-greeter
   - lightdm-gtk-greeter-settings
-  - rof
+  - rofi
 terminal:
   - alacritty
 fonts:
   - noto-fonts-cjk
+browser:
+  - chromium
+
