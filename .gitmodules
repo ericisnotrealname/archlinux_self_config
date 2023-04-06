@@ -4,3 +4,6 @@
 [submodule "slock"]
 	path = slock
 	url = https://git.suckless.org/slock
+[submodule "xssstate"]
+	path = xssstate
+	url = https://git.suckless.org/xssstate
