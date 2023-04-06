@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/linye'
+let g:netrw_dirhist_2='/home/linye/LunarVim/utils/installer'
+let g:netrw_dirhist_1='/home/linye'
+let g:netrw_dirhist_0='/home/linye/Downloads/Python-3.10.9'
+let g:netrw_dirhist_9='/home/linye/Documents/archlinux_self_config'
+let g:netrw_dirhist_8='/etc/pacman.d'
+let g:netrw_dirhist_7='/home/linye/Documents/archlinux_self_config'
+let g:netrw_dirhist_6='/home/linye/Documents'
+let g:netrw_dirhist_5='/home/linye/Documents/archlinux_self_config'
+let g:netrw_dirhist_4='/home/linye/.local/applications/dwm/dwm-6.3'

@@ -8,6 +8,8 @@ xwindows:
   - rofi
 terminal:
   - alacritty
+  - vim
+  - ctags
 fonts:
   - noto-fonts-cjk
 browser:
